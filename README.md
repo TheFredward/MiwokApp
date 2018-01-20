@@ -1,2 +1,0 @@
-# MiwokApp
-Udacity basics apps
